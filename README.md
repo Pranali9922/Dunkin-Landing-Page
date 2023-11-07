@@ -1,5 +1,5 @@
 # Dunkin-Landing-Page
-
+How landing page work on different devices .
 
 ![mobile (4)](https://github.com/Pranali9922/Dunkin-Landing-Page/assets/109171261/bc26180b-22c6-45b7-b1c6-5ef10c40535a)
 
