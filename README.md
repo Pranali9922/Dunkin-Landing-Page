@@ -13,13 +13,6 @@ Welcome to the Dunkin Donuts landing page! This repository contains the code for
 
 🖱️ **Interactive Elements**: Engage with our content using interactive buttons and smooth scrolling effects.
 
-### Usage:
-
-1. **Clone the Repository**: `git clone <repository-url>`
-   
-2. **Explore**: Open `index.html` in your favorite web browser and start exploring our website.
-
-3. **Customize**: Feel free to customize the content, colors, and styles to match your brand or project.
 
 
 ### Let's Connect:
