@@ -22,10 +22,6 @@ Welcome to the Dunkin Donuts landing page! This repository contains the code for
 3. **Customize**: Feel free to customize the content, colors, and styles to match your brand or project.
 
 
-### License:
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code for your own projects.
-
 ### Let's Connect:
 
 If you have any questions, feedback, or just want to say hi, feel free to reach out. We'd love to hear from you! 😊
